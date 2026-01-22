@@ -1,6 +1,6 @@
-# Machine Learning Practice Projects
+# Machine Learning Projects
 
-This repository contains a collection of **machine learning practice projects** built while learning and experimenting with different algorithms, datasets, and workflows. Each folder is a self-contained project with code, data (or data links), and notes.
+This repository contains a collection of **machine learning projects** built while learning and experimenting with different algorithms, datasets, and workflows. Each folder is a self-contained project with code, data (or data links), and notes.
 
 ## 📂 Repository Structure
 
